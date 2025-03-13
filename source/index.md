@@ -18,3 +18,5 @@ docs/index
 api/index
 ```
 
+![1-Bromo-6-6-dimethyl-3-methylsulfinyl-5-7-dihydro-2-benzothiophen-4-one_Conformer3D_small](https://github.com/user-attachments/assets/3f8160cf-384c-4876-82b0-d89731d3e5a9)
+obabel input.pdb -O output.pdb
